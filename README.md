@@ -14,4 +14,4 @@
 
 From [50projects50days](https://50projects50days.com).
 
-[PREV](https://github.com/yswnqc/50_frontend_projects-14_animated_navigation) | [NEXT]() PROJECT
+[PREV](https://github.com/yswnqc/50_frontend_projects-14_animated_navigation) | [NEXT](https://github.com/yswnqc/50_frontend_projects-16_drink_water) PROJECT
